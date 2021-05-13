@@ -1,0 +1,21 @@
+PODS:
+  - BirdShop (0.1.0)
+  - CTMediator (44)
+
+DEPENDENCIES:
+  - BirdShop
+  - CTMediator
+
+SPEC REPOS:
+  https://github.com/danjiang/RWPodSpecs.git:
+    - BirdShop
+  trunk:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  BirdShop: 0816dc6838b62cd2efae073c7febabf9f0715da6
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+
+PODFILE CHECKSUM: 9bf9087df2a149ca33ee274f5b76b1b30299bfae
+
+COCOAPODS: 1.8.4
